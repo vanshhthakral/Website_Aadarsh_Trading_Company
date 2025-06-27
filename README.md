@@ -19,7 +19,7 @@ We are currently in the **planning and design phase**.
 - [Vansh Thakral]
 - [Ruhaan Babbar]
 - [Akshat Mittal]
-- [Kanak]
+- [Kanak Pratap Singh]
 
 ## 🛠 Planned Tech Stack
 
