@@ -1,0 +1,119 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f7f8fa;
+    color: #333;
+    scroll-behavior: smooth;
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1100px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  /* Header */
+  header {
+    background-color: #1a1a2e;
+    color: white;
+    padding: 20px 0;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 26px;
+  }
+  
+  nav {
+    margin-top: 10px;
+  }
+  
+  nav a {
+    color: #f4f4f4;
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  nav a:hover {
+    color: #fcbf49;
+  }
+  
+  /* Hero Section */
+  .hero {
+    background: linear-gradient(to right, #142850, #27496d);
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+    border-radius: 0 0 30px 30px;
+  }
+  
+  .hero h2 {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  .hero button {
+    background-color: #fcbf49;
+    border: none;
+    padding: 12px 25px;
+    font-size: 16px;
+    color: #142850;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .hero button:hover {
+    background-color: #ffd369;
+  }
+  
+  /* Sections */
+  .section {
+    padding: 60px 20px;
+  }
+  
+  .alt-section {
+    background-color: #edf2f4;
+    border-radius: 10px;
+  }
+  
+  .section h3 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .section li {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #1a1a2e;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+    border-top: 4px solid #fcbf49;
+  }
+  
+  footer h4 {
+    margin-top: 0;
+    font-size: 22px;
+  }
+  
