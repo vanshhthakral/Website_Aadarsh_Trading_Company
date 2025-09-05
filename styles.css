@@ -2,12 +2,13 @@
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
+    
     background-color: #f7f8fa;
     color: #333;
     scroll-behavior: smooth;
   }
 
-  
+
   
   .container {
     width: 90%;
